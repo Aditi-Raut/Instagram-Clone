@@ -5,7 +5,7 @@ This was made while learning Android.
 1. Android Studio
 2. Amazon Web Services Parse (EC2)
 
-#Concepts Learned/Implemented
+# Concepts Learned/Implemented
 1. Creating EC2 Instances and setting up Parse Dashboard. Using SSH Client (like putty)
 2. Writring Parse queries in Android Studio
 3. Login Sign Up using Parse. Even Logout
